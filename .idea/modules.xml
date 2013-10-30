@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ITraSig/ITraSig.iml" filepath="$PROJECT_DIR$/ITraSig/ITraSig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ITraSigProject.iml" filepath="$PROJECT_DIR$/ITraSigProject.iml" />
+    </modules>
+  </component>
+</project>
+
