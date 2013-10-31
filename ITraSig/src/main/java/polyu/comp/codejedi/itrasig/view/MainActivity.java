@@ -32,7 +32,6 @@ public class MainActivity extends Activity {
                 startActivity(main2AccelIntent);
             }
         });
-
     }
 
     @Override
