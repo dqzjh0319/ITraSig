@@ -4,5 +4,10 @@
     <string name="app_name">ITraSig</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="get_accel">Get Acceleration</string>
+    <string name="accel_axis_x">Accel X</string>
+    <string name="accel_axis_y">Accel_Y</string>
+    <string name="title_activity_main">Acceleration</string>
+    <string name="title_activity_accel_management">Acceleration</string>
 
 </resources>

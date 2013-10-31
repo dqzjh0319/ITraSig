@@ -1,4 +1,4 @@
-package polyu.comp.codejedi.itrasig;
+package polyu.comp.codejedi.itrasig.view;
 
 import android.opengl.GLES20;
 import android.opengl.GLSurfaceView;
