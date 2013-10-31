@@ -7,7 +7,10 @@
     <string name="get_accel">Get Acceleration</string>
     <string name="accel_axis_x">Accel X</string>
     <string name="accel_axis_y">Accel_Y</string>
+    <string name="accel_axis_z">Accel_Z</string>
     <string name="title_activity_main">Acceleration</string>
     <string name="title_activity_accel_management">Acceleration</string>
+    <string name="accel_start">Start</string>
+    <string name="accel_stop">Stop</string>
 
 </resources>

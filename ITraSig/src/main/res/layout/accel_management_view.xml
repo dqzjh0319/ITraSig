@@ -5,14 +5,28 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <Button
+        android:id="@+id/btn_accel_switch"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="@string/accel_start"/>
+
     <TextView
+        android:id="@+id/tv_accel_x"
         android:layout_height="wrap_content"
         android:layout_width="fill_parent"
         android:text="@string/accel_axis_x"/>
 
     <TextView
+        android:id="@+id/tv_accel_y"
         android:layout_height="wrap_content"
         android:layout_width="fill_parent"
         android:text="@string/accel_axis_y"/>
+
+    <TextView
+        android:id="@+id/tv_accel_z"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:text="@string/accel_axis_z"/>
 
 </LinearLayout>
